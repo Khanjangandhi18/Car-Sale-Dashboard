@@ -35,7 +35,7 @@ The Car Sales Analysis Dashboard is an interactive Power BI dashboard designed t
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="Carsaledashboard.png" width="900">
+  <img src="Carsaledashboard.PNG" width="900">
 </p>
 
 ## 🚀 Outcome
